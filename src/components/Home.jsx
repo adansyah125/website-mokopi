@@ -8,7 +8,7 @@ export default function Home() {
         <img
           className="w-full h-full object-cover"
           src="assets/mokopi.jpg"
-          alt=""
+          alt="gambar mokopi"
         />
 
         <div className="absolute inset-0 bg-primary/40 backdrop-blur-[2px]"></div>
