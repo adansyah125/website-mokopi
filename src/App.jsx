@@ -10,7 +10,7 @@ import "./index.css";
 export default function App() {
   return (
     <>
-      <Navbar />
+    <Navbar />
      <Home />
      <About />
      <Menu />
